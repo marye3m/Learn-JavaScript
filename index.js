@@ -1,4 +1,4 @@
- // Creat Branch1
+ // Master Branch
  const a = 10;
  const b= true;
  console.log(a);
